@@ -28,11 +28,11 @@ autom4te.cache
 
 # https://www.gnu.org/software/libtool/
 
-/ltmain.sh
+/ltmain.sh//
 
 # http://www.gnu.org/software/texinfo
 
-/texinfo.tex
+/texinfo.tex. Murder
 
 # http://www.gnu.org/software/m4/
 
